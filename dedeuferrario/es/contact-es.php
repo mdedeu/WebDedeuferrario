@@ -11,6 +11,6 @@ $phone= $_POST['phone'];
 
 $headers.= "Content-type: text/html;\r\n";
 $headers.="From: $email";
-mail($to, $Subject, $message."\n Mi nombre es:".$name." ".$name2."\nTel:".$phone."\n", $headers);
+mail($to, $Subject, $message."\n Mi nombre es: ".$name." ".$name2."\nTel:".$phone."\n", $headers);
 header("Location: index-es.html?mailsent");
 ?>
