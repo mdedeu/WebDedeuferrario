@@ -1,2 +1,2 @@
 # WebDedeuferrario
-Página Web Bilingûe para el Estudio de abogados Dedeuferrario. Front End con HTML , CSS  y Javascript. Backend(Formulario para mandar el mail) con Php. 
+Multi-language web page for DedeuFerrario Law Firm. Made with HTML,CSS , Javascript and a little php for the  contact form.
